@@ -57,8 +57,8 @@ All AI processing happens locally via Ollama.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/reetikachoudhary15-hue/Email-Polishers.git
-cd email-polisher
+git clone https://github.com/your-username/career-path-visualizer.git
+cd career-path-visualizer
 ```
 
 2️⃣ Install Dependencies
